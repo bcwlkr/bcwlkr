@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bcwlkr
-- 👀 I’m interested in absolutley nthing at all idk why i'm here ._.
-- 🌱 I’m currently learning python, HTML, and jS
-- 💞️ I’m looking to collaborate on noting leave me alone
+- 👀 I’m interested in all thing tech and flipper zero
+- 🌱 I’m currently learning Java and C
+- 💞️ I’m looking to collaborate on anything possible, please check out my repos
 - 📫 How to reach me bcwlkr@gmail.com
 
 <!---
